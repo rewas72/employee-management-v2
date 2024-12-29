@@ -156,7 +156,6 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 | Alan Adı      | Tür         | Açıklama                 |
 |---------------|-------------|--------------------------|
 | taskId        | PK, int     | Görev ID                |
-| projectId     | FK, int     | Proje ID                |
 | taskName      | nvarchar(100)| Görev Adı               |
 | startDate     | datetime    | Başlangıç Tarihi         |
 | endDate       | datetime    | Bitiş Tarihi            |
