@@ -79,7 +79,7 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 
 ## Uygulama Görselleri
 <p align="center">
-<img src="images/foto/1.jpeg" width="400" height="250">
+<img src="images/foto/1.jpeg" width="500" height="200">
 <img src="images/foto/4.jpeg" width="100" height="250">
 <img src="images/foto/3.jpeg" width="100" height="250">
 <img src="images/foto/5.jpeg" width="100" height="250">
