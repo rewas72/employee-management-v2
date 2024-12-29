@@ -80,19 +80,19 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 ## Uygulama Görselleri
 <p align="center">
 <img src="images/foto/1.jpeg" width="500" height="200">
-<img src="images/foto/4.jpeg" width="100" height="250">
-<img src="images/foto/3.jpeg" width="100" height="250">
-<img src="images/foto/5.jpeg" width="100" height="250">
-<img src="images/foto/6.jpeg" width="100" height="250">
-<img src="images/foto/7.jpeg" width="100" height="250">
-<img src="images/foto/8.jpeg" width="100" height="250">
-<img src="images/foto/9.jpeg" width="100" height="250">
-<img src="images/foto/10.jpeg" width="100" height="250">
-<img src="images/foto/11.jpeg" width="100" height="250">
-<img src="images/foto/12.jpeg" width="100" height="250">
- <img src="images/foto/13.jpeg" width="100" height="250">
-<img src="images/foto/14.jpeg" width="100" height="250">
-<img src="images/foto/15.jpeg" width="100" height="250">
+<img src="images/foto/4.jpeg" width="500" height="200">
+<img src="images/foto/3.jpeg" width="500" height="200">
+<img src="images/foto/5.jpeg" width="500" height="200">
+<img src="images/foto/6.jpeg" width="500" height="200">
+<img src="images/foto/7.jpeg" width="500" height="200">
+<img src="images/foto/8.jpeg" width="500" height="200">
+<img src="images/foto/9.jpeg" width="500" height="200">
+<img src="images/foto/10.jpeg" width="500" height="200">
+<img src="images/foto/11.jpeg" width="500" height="200">
+<img src="images/foto/12.jpeg" width="500" height="200">
+ <img src="images/foto/13.jpeg" width="500" height="200">
+<img src="images/foto/14.jpeg" width="500" height="200">
+<img src="images/foto/15.jpeg" width="500" height="200">
 </p>
 
 ---
