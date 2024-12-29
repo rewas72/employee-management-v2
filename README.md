@@ -47,29 +47,29 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
     <tr>
       <td>Ezgi Şaşı</td>
       <td>
-        <a href="https://github.com/ezgisasi" target="_blank"><img src="images/logos/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/ezgi-%C5%9Fa%C5%9F%C4%B1-aa66212b2/" target="_blank"><img src="images/logos/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/ezgisasi" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/ezgi-%C5%9Fa%C5%9F%C4%B1-aa66212b2/" target="_blank"><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td>Revas Akın</td>
       <td>
-        <a href="https://github.com/rewas72" target="_blank"><img src="images/logos/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logos/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/rewas72" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td>Ayşenur Sunay</td>
       <td>
-        <a href="https://github.com/aysenur-sunay" target="_blank"><img src="images/logos/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/ay%C5%9Fenur-sunay-1511042b9/" target="_blank"><img src="images/logos/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/aysenur-sunay" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/ay%C5%9Fenur-sunay-1511042b9/" target="_blank"><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
    <tr>
       <td>Merve Nur Türk</td>
       <td>
-        <a href="https://github.com/mervenrtrk" target="_blank"><img src="images/logos/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/merve-nur-t%C3%BCrk-78745729b/" target="_blank" ><img src="images/logos/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/mervenrtrk" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/merve-nur-t%C3%BCrk-78745729b/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
   </tr>
@@ -79,7 +79,20 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 
 ## Uygulama Görselleri
 <p align="center">
-
+<img src="images/foto/1.jpeg" width="100" height="250">
+<img src="images/foto/4.jpeg" width="100" height="250">
+<img src="images/foto/3.jpeg" width="100" height="250">
+<img src="images/foto/5.jpeg" width="100" height="250">
+<img src="images/foto/6.jpeg" width="100" height="250">
+<img src="images/foto/7.jpeg" width="100" height="250">
+<img src="images/foto/8.jpeg" width="100" height="250">
+<img src="images/foto/9.jpeg" width="100" height="250">
+<img src="images/foto/10.jpeg" width="100" height="250">
+<img src="images/foto/11.jpeg" width="100" height="250">
+<img src="images/foto/12.jpeg" width="100" height="250">
+ <img src="images/foto/13.jpeg" width="100" height="250">
+<img src="images/foto/14.jpeg" width="100" height="250">
+<img src="images/foto/15.jpeg" width="100" height="250">
 </p>
 
 ---
@@ -158,5 +171,3 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 Bu proje, GNU General Public License (GPL) ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasını inceleyin.
 
 ---
-
-## Uygulama Görselleri
