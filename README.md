@@ -45,34 +45,13 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
       <th>İletişim</th>
     </tr>
     <tr>
-      <td>Ezgi Şaşı</td>
-      <td>
-        <a href="https://github.com/ezgisasi" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/ezgi-%C5%9Fa%C5%9F%C4%B1-aa66212b2/" target="_blank"><img src="images/logo/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-    <tr>
       <td>Revas Akın</td>
       <td>
         <a href="https://github.com/rewas72" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
-    <tr>
-      <td>Ayşenur Sunay</td>
-      <td>
-        <a href="https://github.com/aysenur-sunay" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/ay%C5%9Fenur-sunay-1511042b9/" target="_blank"><img src="images/logo/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-   <tr>
-      <td>Merve Nur Türk</td>
-      <td>
-        <a href="https://github.com/mervenrtrk" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/merve-nur-t%C3%BCrk-78745729b/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-  </tr>
+  
   </table>
 
 ---
